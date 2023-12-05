@@ -28,6 +28,6 @@ for i,v in enumerate(valores):
     if v == maior:
         print(f"{i}...",end='')
 
-
+# Olá, como estão
     
     
