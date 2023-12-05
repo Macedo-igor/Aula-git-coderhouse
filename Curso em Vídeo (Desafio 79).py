@@ -16,4 +16,3 @@ while True:
 print('=-' * 30)               
 print(f"Você digitou os números {sorted(lista)}")
 
-Olaaaaaa
